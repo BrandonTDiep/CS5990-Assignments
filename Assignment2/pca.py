@@ -17,7 +17,7 @@ from sklearn.preprocessing import StandardScaler
 df = pd.read_csv("heart_disease_dataset.csv")
 
 
-#Create a training matrix without the target variable (Heart Diseas)
+#Create a training matrix
 #--> add your Python code here
 df_features = df
 
