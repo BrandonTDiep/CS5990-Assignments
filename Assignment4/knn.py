@@ -1,7 +1,7 @@
 #-------------------------------------------------------------------------
 # AUTHOR: Brandon Diep
 # FILENAME: knn.py
-# SPECIFICATION: description of the program
+# SPECIFICATION: read the file weather_training.csv (training set) and classify each test instance from the file weather_test (test set) with knn
 # FOR: CS 5990- Assignment #4
 # TIME SPENT: 1hr 30 mins
 #-----------------------------------------------------------*/

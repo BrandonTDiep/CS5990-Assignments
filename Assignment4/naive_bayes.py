@@ -1,7 +1,7 @@
 #-------------------------------------------------------------------------
 # AUTHOR: Brandon Diep
 # FILENAME: naive_bayes.py
-# SPECIFICATION: description of the program
+# SPECIFICATION: read the file weather_training.csv (training set) and classify each test instance from the file weather_test (test set) with naive bayes
 # FOR: CS 5990- Assignment #4
 # TIME SPENT: 50 mins
 #-----------------------------------------------------------*/
